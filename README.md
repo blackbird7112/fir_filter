@@ -1,1 +1,1 @@
-# fir_filter
+# Distributed Arithmetic for FIR Filter Implementation on FPGA
